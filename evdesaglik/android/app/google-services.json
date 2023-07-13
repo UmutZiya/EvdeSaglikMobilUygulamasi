@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "237182468007",
+    "project_id": "evdesaglik-8f4d2",
+    "storage_bucket": "evdesaglik-8f4d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237182468007:android:e07780d5337b4424f30082",
+        "android_client_info": {
+          "package_name": "com.app.evdesaglik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237182468007-qc1sqt718q8gd2i806q12pesab9nu4f9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.evdesaglik",
+            "certificate_hash": "3d14df8f22c1ff11199e3af3d82da32232cf4687"
+          }
+        },
+        {
+          "client_id": "237182468007-uscr8s0mo7pfe1a08urtnpmmirfct92r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgQnjB9uP7KmJxyd8uWMaeS_ZIGo-CwGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237182468007-uscr8s0mo7pfe1a08urtnpmmirfct92r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "237182468007-adbvbam46tk6ghobnqgotdl1fnue1id8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.evdesaglik"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
